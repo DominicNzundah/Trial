@@ -1,4 +1,4 @@
-      #1stDiv{
+ #1stDiv{
       font-family: Verdana;
       font-weight: Italic;
       font-size:14px;
@@ -27,3 +27,6 @@
       background-color:rgba(180,15,150,0.5);
       color:white;
       }
+.btn{ height:15px; width:auto;
+background-color:green;
+}
