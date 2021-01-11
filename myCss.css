@@ -1,0 +1,29 @@
+      #1stDiv{
+      font-family: Verdana;
+      font-weight: Italic;
+      font-size:14px;
+      color:white;
+      background-color:black;
+      height:60px;
+      width : auto;
+      
+      };
+      #2ndDiv{
+      font-family: Times New Roman;
+      font-weight: Bold;
+      font-size:16px;
+      color:white;
+      background-color:purplex;
+      height:60px;
+      width : auto;
+  
+            
+      };
+      .deco{
+      border-radius:35px;
+      border:1px gold dotted;
+      };
+      h1{
+      background-color:rgba(180,15,150,0.5);
+      color:white;
+      };
